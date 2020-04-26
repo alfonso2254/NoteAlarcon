@@ -2,7 +2,7 @@
   "name": "notealarcon",
   "version": "0.0.1",
   "description": "application developed to create, delete, and modify notes",
-  "productName": "notealarcon",
+  "productName": "NoteAlarcon",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "alfonso2254 <45520382+alfonso2254@users.noreply.github.com>",
@@ -13,6 +13,8 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
+    "bootstrap-vue": "^2.12.0",
+    "firebase": "^7.14.2",
     "quasar": "^1.0.0"
   },
   "devDependencies": {
