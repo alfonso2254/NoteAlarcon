@@ -1,22 +1,20 @@
-# notealarcon (notealarcon)
+# NoteaAlarcon (notealarcon)
 
-application developed to create, delete, and modify notes
+La siguiente aplicación fue desarrollada por Luis Alfonso Alarcon y diseñada por Quaser, haciendo uso del framework Quasar dependiendo del Framework Vuejs, adicional se implementa Firebase como base de datos. La misma Tiene como obejetivo de agregar, almacenar, editar, y eliminar notas.
 
-## Install the dependencies
+## Para instalar las dependencias
 ```bash
 npm install
 ```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Inicie la aplicación en modo de desarrollo (recarga de código activo, informe de errores, etc.)
 ```bash
 quasar dev
 ```
-
-
-### Build the app for production
+### Construye la aplicación para producción
 ```bash
 quasar build
 ```
-
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+
