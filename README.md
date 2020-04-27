@@ -14,8 +14,11 @@ quasar dev
 ```bash
 quasar build
 ```
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### Personaliza la configuración
+Consulte [Configuración de quasar.conf.js.](https://quasar.dev/quasar-cli/quasar-conf-js).
 
-
-![87aec5d2-7d89-458c-a703-b3686fe448a9](src/statics/background.jpg)
+### Screenshots
+![87aec5d2-7d89-458c-a703-b3686fe448a9](src/statics/screenshot-1.jpg)
+![87aec5d2-7d89-458c-a703-b3686fe448a9](src/statics/screenshot-2.jpg)
+![87aec5d2-7d89-458c-a703-b3686fe448a9](src/statics/screenshot-3.jpg)
+![87aec5d2-7d89-458c-a703-b3686fe448a9](src/statics/screenshot-4.jpg)
