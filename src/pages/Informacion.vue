@@ -64,8 +64,8 @@
         <div class="business-card-details">
           <p>
             <i class="fa fa-desktop"></i
-            ><a class="business-card-link" href="Pagina demo"
-              >https://notealarcon.web.app/</a
+            ><a class="business-card-link" target="_blank" ref="https://notealarcon.web.app/#/"
+              >Demo</a
             >
           </p>
           <a href="" target="_blank" class="business-card-link"
